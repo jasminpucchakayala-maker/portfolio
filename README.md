@@ -3,7 +3,8 @@
 Personal portfolio website built with pure HTML, CSS, and JavaScript.
 
 ## 🔗 Live Site
-[View Portfolio]([https://yourusername.github.io](https://jasminpucchakayala-maker.github.io/portfolio/))
+[View Portfolio]
+([https://yourusername.github.io](https://jasminpucchakayala-maker.github.io/portfolio/))
 
 ## ✨ Features
 - Glassmorphism dark/light theme
